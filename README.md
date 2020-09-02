@@ -9,6 +9,6 @@ how to install:
 4. Click "new style for Lichess.org"
 5. Copy the code 
 6. Paste it in stylus
-7.enjoy:)
+7. enjoy:)
 
 For any problems contact me at Lichess (Krukulu)
